@@ -1,6 +1,8 @@
-## Your Name
+Daniel Mbata
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safe guarding roles, such as being a goodSAM volunteer during the COVID-19 2020 pandemic and organising a special needs weekend club for autistic kids while at University, and also help run a . My adaptable and enthusiastic approach to achieving team objectives mixed with my effective communication skills have shown that I am an effective team player who has a flexible approach to working and is always eager for the next challenge. This combined with my resilience at all levels of work ensures delivery of the highest qualityin any environment I am in.  After graduating from University with a degree in Sports and exercise medical sciences, my love from problem solving and curiosity to find a futureproof sparked my interest in programming, and 
 
 ## Projects
 
