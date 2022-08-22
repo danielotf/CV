@@ -1,6 +1,19 @@
 <h1 align="center"> Daniel Mbata</h1>
 
 
+<p>
+  <div align="center">
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#about-me">About Me</a> |  
+<!--     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#tech-skills">Tech Skills</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#projects">Projects</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#general-skills">General Skills</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#experience">Experience</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#education">Education</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#hobbies">Hobbies</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/CBakerCV-public.pdf">Résumé PDF</a> -->
+  </div>
+</p>
+
 A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safe guarding roles, such as being a goodSAM volunteer during the COVID-19 pandemic and organising a special needs weekend club for autistic kids while at University.
 
 My adaptable and enthusiastic approach to achieving team objectives mixed with my effective communication skills have shown that I am an effective team player who has a flexible approach to working and is always eager for the next challenge.
