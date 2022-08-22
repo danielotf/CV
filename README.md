@@ -1,9 +1,13 @@
 <h1 align="center"> Daniel Mbata</h1>
 
 
+A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safe guarding roles, such as being a goodSAM volunteer during the COVID-19 2020 pandemic and organising a special needs weekend club for autistic kids while at University.
 
+My adaptable and enthusiastic approach to achieving team objectives mixed with my effective communication skills have shown that I am an effective team player who has a flexible approach to working and is always eager for the next challenge.
 
-A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safe guarding roles, such as being a goodSAM volunteer during the COVID-19 2020 pandemic and organising a special needs weekend club for autistic kids while at University, and also help run a . My adaptable and enthusiastic approach to achieving team objectives mixed with my effective communication skills have shown that I am an effective team player who has a flexible approach to working and is always eager for the next challenge. This combined with my resilience at all levels of work ensures delivery of the highest qualityin any environment I am in.  After graduating from University with a degree in Sports and exercise medical sciences, my love from problem solving and curiosity to find a futureproof sparked my interest in programming, and 
+This combined with my resilience at all levels of work ensures delivery of the highest quality in any environment I am in. After graduating from University with a degree in Sports and exercise medical sciences, my love from problem solving, and curiosity to find a futureproof career sparked my interest in programming, and that interest has only grown ever since. 
+
+As a Makers Academy Graduate I plan to use my rapidly developing tech skills in industries that are continuosly progressing, so I am keen to work in companies that are innovative with their methods and are committed to providing tangible benefits and solutions in their sector, while giving the very best service to their clients. 
 
 ## Projects
 
