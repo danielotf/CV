@@ -1,7 +1,7 @@
 <h1 align="center"> Daniel Mbata</h1>
 
 
-A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safe guarding roles, such as being a goodSAM volunteer during the COVID-19 2020 pandemic and organising a special needs weekend club for autistic kids while at University.
+A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safe guarding roles, such as being a goodSAM volunteer during the COVID-19 pandemic and organising a special needs weekend club for autistic kids while at University.
 
 My adaptable and enthusiastic approach to achieving team objectives mixed with my effective communication skills have shown that I am an effective team player who has a flexible approach to working and is always eager for the next challenge.
 
