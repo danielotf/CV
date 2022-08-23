@@ -62,9 +62,9 @@ For a complete list, see my [Github](https://github.com/danielotf).
 ● Triaging a large number of patient cases in what order they should be attended to using systems such as MAXconnect, synergy, ringcentral, NHS test & trace to increase
 efficiency.
 
-**SEN TEACHING ASSISTANT** (NOVEMBER 2021 - JANUARY 2022)
-● Supervising children with special needs in their sensory and tactile development
-● Working alongside school teachers to ensure special needs children are catered to
+**SEN TEACHING ASSISTANT** (November 2021 - January 2022)
+- Supervising children with special needs in their sensory and tactile development
+- Working alongside school teachers to ensure special needs children are catered to
 accordingly.
 
 ## Skills
@@ -100,26 +100,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 **Makers Academy** (April 2022 - August 2022)
-● Object Oriented Programming (OOP) - Fundamentals of object-oriented languages e.g. Ruby and Javascript.
-● Test Driven Development(TDD)- Able to write meaningful tests (behaviour vs. state) based on user requirements.
-● Learnt consistent debugging process to aid resolve issues.
-● Designed database schemas with SQL and studied the difference between table-oriented databases vs. document-based (MongoDB).
-● Used Agile values and principles (e.g. stand-ups, retros, and sprint planning) to complete coding projects.
-● Pair programming in group projects to problem solve which required effective teamwork and communication. 
-● Fetching and updating remote data using JS, with and without React.
-● Built full stack web applications using MVC model, Git, code reviews and Github Actions.
-● Independent learning and problem-solving throughout.
+- Object Oriented Programming (OOP) - Fundamentals of object-oriented languages e.g. Ruby and Javascript.
+- Test Driven Development(TDD)- Able to write meaningful tests (behaviour vs. state) based on user requirements.
+- Learnt consistent debugging process to aid resolve issues.
+- Designed database schemas with SQL and studied the difference between table-oriented databases vs. document-based (MongoDB).
+- Used Agile values and principles (e.g. stand-ups, retros, and sprint planning) to complete coding projects.
+- Pair programming in group projects to problem solve which required effective teamwork and communication. 
+- Fetching and updating remote data using JS, with and without React.
+- Built full stack web applications using MVC model, Git, code reviews and Github Actions.
+- Independent learning and problem-solving throughout.
 
-#### Your University / College (start_date to end_date)
+ **University of Birmingham** (September 2018 - July 2021)
+- Bachelor of Science in Sports and Exercise Science| 2’1
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**Bethany School** (September 2015 - June 2018)
+- Scholarship Holder
+- 7 GCSE’S; including Maths (A) and English(B)|
+-  A-LEVEL: Chemistry-A, Biology-B, Physics-B
 
-#### Any other qualifications
+## Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- National Citizen Service (NCS 2017)
+- Gold Duke of Edinburgh (2018)
+- Diabetes UK Community Champion(2019) The Birmingham Project (2019)
+- BSMS Medicine Work Experience Virtual Internship. (2020)      
+- St John’s Ambulance First Aider (2020)
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- **Football** - I normally play semi-pro football or futsal when I am not programming
+- **Swimming** - I love to swim especially in the summer, and it is a way for me to take part in active recovery after football training. 
+- **Comedy** - I love laughing and I love making other people laugh too.  
