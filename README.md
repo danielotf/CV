@@ -14,13 +14,13 @@
 </p>
 
 ## About Me
-A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safe guarding roles, such as being a goodSAM volunteer during the COVID-19 pandemic and organising a special needs weekend club for autistic kids while at University.
+A committed and highly professional individual with extensive experience gained within healthcare services and the education sector. My proven managerial and organisational skills have been gained in administrative and safeguarding roles, such as being a goodSAM volunteer during the COVID-19 pandemic and organising a special needs weekend club for autistic kids while at University.
 
 My adaptable and enthusiastic approach to achieving team objectives mixed with my effective communication skills have shown that I am an effective team player who has a flexible approach to working and is always eager for the next challenge.
 
-This combined with my resilience at all levels of work ensures delivery of the highxest quality in any environment I am in. After graduating from University with a degree in Sports and exercise medical sciences, my love from problem solving, and curiosity to find a futureproof career sparked my interest in programming, and that interest has only grown ever since. 
+This combined with my resilience at all levels of work ensures delivery of the highest quality in any environment I am in. After graduating from University with a degree in Sports and exercise medical sciences, my love of problem-solving, and curiosity to find a futureproof career sparked my interest in programming, and that interest has only grown ever since. 
 
-As a Makers Academy Graduate I aim to use my rapidly developing tech skills in industries that are continuosly progressing, so I am keen to work in companies that are innovative with their methods and are committed to providing tangible benefits and solutions in their sector, while giving the very best service to their clients. 
+As a Makers Academy Graduate I aim to use my rapidly developing tech skills in industries that are continuously progressing, so I am keen to work in companies that are innovative with their methods and are committed to providing tangible benefits and solutions in their sector, while giving the very best service to their clients. 
 
 ## Tech Skills
 
@@ -61,34 +61,32 @@ For a complete list, feel free to check out my [Github](https://github.com/danie
 accordingly.
 
 **SITEL LTD** (July 2021 - November 2021)  
-- Managing and attending to high volume of incoming and outgoing calls for COVID-19 patients and their contacts.
+- Managing and attending to a high volume of incoming and outgoing calls for COVID-19 patients and their contacts.
 - Responding to questions and queries from COVID patients and their contacts.
-- Organisation of patients notes on NHS databases to ensure they are aligned properly so the right people are contacted at the right time, to ensure correct self-isolation duration.
-- Triaging a large number of patient cases in what order they should be attended to using systems such as MAXconnect, synergy, ringcentral, NHS test & trace to increase
+- Organisation of patient notes on NHS databases to ensure they are aligned properly so the right people are contacted at the right time, to ensure correct self-isolation duration.
+- Triaging a large number of patient cases in what order they should be attended to using systems such as MAXconnect, synergy, RingCentral, NHS test & trace to increase
 efficiency.
 
 **TCS HOSPITALITY** (September 2018 - June 2020)
 - Worked at schools to help organize events and meals for children.
 - Provided bar and catering service at popular events.
 - Served at hospitality boxes in stadiums.
-
 ## Skills
--------
 **Effective communicator and excellent team player**<br> 
-During The Birmingham Project 2019 held at the University of Birmingham, I was part of a 6 man team that developed a weekly e-newsletter as part of the build up to the 2022 commonwealth games being held in Birmingham. As someone who was responsible for a major section of the newsletter which was based on interviewing upcoming athletes leading up to the games, I ensured there was clear communication between myself and the rest of the team, this and the whole team being willing to put the team first before individual wants when it came to decision making was pivotal to finishing the newsletter on time. Our aim was to raise awareness in the Birmingham community for individuals of all ages to engage in exercise, increased physical activity and healthier lifestyles, which h we then achieved with the creation of the newsletter. 
+During The Birmingham Project 2019 held at the University of Birmingham, I was part of a 6-man team that developed a weekly e-newsletter as part of the build-up to the 2022 commonwealth games being held in Birmingham. As someone who was responsible for a major section of the newsletter which was based on interviewing upcoming athletes leading up to the games, I ensured there was clear communication between myself and the rest of the team, this and the whole team is willing to put the team first before individual wants when it came to decision making was pivotal to finishing the newsletter on time. Our aim was to raise awareness in the Birmingham community for individuals of all ages to engage in exercise, increased physical activity and healthier lifestyles, which h we then achieved with the creation of the newsletter. 
 
 **Leadership**<br>
-In the summer of 2019, I co-started a weekend community youth club that gives youths and children the opportunity to relax and engage in mental health conversations that are normally stigmatised in today’s society. This required me to lead the youths in how to have certain conversations which have been deemed uncomfortable and also in activites that helped build their soft skills which would benefit them outside the youth club as well. 
+In the summer of 2019, I co-started a weekend community youth club that gives youths and children the opportunity to relax and engage in mental health conversations that are normally stigmatised in today’s society. This required me to lead the youths in how to have certain conversations which have been deemed uncomfortable and also in activities that helped build their soft skills which would benefit them outside the youth club as well. 
 
 **Organisation & Adaptability**<br>
 Having been involved in so many teams from teaching staff and healthcare teams to annual festival hospitality staff, I have had to develop my organisational skills and also the ability to adapt to different situations, especially unprecedented ones. I have shown both these skills in multiple scenarios such as while being an emergency goodSAM volunteer, where I was part of a team that consistently raised, packaged and dispatched adequate food resources for COVID-19 patients. These skills were also used when running a weekend autism scheme for special needs kids while at University, as I organised and arranged play areas for them and also developed innovative ways to help engage autistic children in communicating their
 needs, enabling them to also work effectively among themselves.
 
 **Resilience**<br>
-Being a very sporty individual, I have had to dig deep especially when it comes to sport competitions and I have been able to translate that to other areas of my life, especially when it comes to academic work and even coding. On many occasions I have been faced with challenges that seemed like there is no way to get around them both programming related and non-programming scenarios, and I can confidently say my perseverence and diligence have gotten me through them, and have enabled me to consistently finish things that I start, instead of putting them away at any prolonged difficulty. 
+Being a very sporty individual, I have had to dig deep especially when it comes to sports competitions and I have been able to translate that to other areas of my life, especially when it comes to academic work and even coding. On numerous occasions, I have been faced with challenges that seemed like there is no way to get around them both programming-related and non-programming scenarios, and I can confidently say my perseverance and diligence have gotten me through them, and have enabled me to consistently finish things that I start, instead of putting them away at any prolonged difficulty. 
 
 **Time Management**<br>
-As a degree holder, during the length of my degree, I can confidently say that time management is one of my biggest strength, as I not only juggled alot of extra-curricurricular activities while acquiring a degree that comes with multiple project deadlines per term, but I also managed to run my own business while at University. As time management is a skill that can also been improved, I believe that itnis definitely a skill I execute at a very high standard, and can only get better at over time. 
+As a degree holder, during the length of my degree, I can confidently say that time management is one of my biggest strengths, as I not only juggled a lot of extra-curricular activities while acquiring a degree that comes with multiple project deadlines per term, but I also managed to run my own business while at University. As time management is a skill that can also be improved, I believe that it is definitely a skill I execute at a very high standard, and can only get better over time. 
 
 
 
@@ -97,12 +95,12 @@ As a degree holder, during the length of my degree, I can confidently say that t
 **Makers Academy** (April 2022 - August 2022)
 - Object Oriented Programming (OOP) - Fundamentals of object-oriented languages e.g. Ruby and Javascript.
 - Test Driven Development(TDD)- Able to write meaningful tests (behaviour vs. state) based on user requirements.
-- Learnt consistent debugging process to aid resolve issues.
+- Learned a consistent debugging process to aid resolve issues.
 - Designed database schemas with SQL and studied the difference between table-oriented databases vs. document-based (MongoDB).
 - Used Agile values and principles (e.g. stand-ups, retros, and sprint planning) to complete coding projects.
 - Pair programming in group projects to problem solve which required effective teamwork and communication. 
 - Fetching and updating remote data using JS, with and without React.
-- Built full stack web applications using MVC model, Git, code reviews and Github Actions.
+- Built full stack web applications using the MVC model, Git, code reviews and Github Actions.
 - Independent learning and problem-solving throughout.
 
  **University of Birmingham** (September 2018 - July 2021)
@@ -110,7 +108,7 @@ As a degree holder, during the length of my degree, I can confidently say that t
 
 **Bethany School** (September 2015 - June 2018)
 - Scholarship Holder
-- 7 GCSE’S; including Maths (A) and English(B)
+- 7 GCSE’s; including Maths (A) and English(B)
 -  A-LEVEL: Chemistry-A, Biology-B, Physics-B
 
 **Other Qualifications**
