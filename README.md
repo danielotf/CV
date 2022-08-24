@@ -46,7 +46,7 @@ As a Makers Academy Graduate I aim to use my rapidly developing tech skills in i
 
 ## Projects
 -------
-For a complete list, see my [Github](https://github.com/danielotf).
+For a complete list, feel free to check out my [Github](https://github.com/danielotf).
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------- | ----------------- |
 | [**Achoo**](https://github.com/fridayshoes/achoo-hayfever-server-express) | A location based app that notifies you with an SMS when pollen count levels reach dangerously sneezey levels in your area. | 10 days | React, Jest, Express, MongoDB, Cypress, CSS, Jest, Javascript,Ambeex|
@@ -55,47 +55,42 @@ For a complete list, see my [Github](https://github.com/danielotf).
 
 ## Work Experience
 
-**SITEL LTD** (July 2021 - November 2021)  
-● Managing and attending to high volume of incoming and outgoing calls for COVID-19 patients and their contacts.
-● Responding to questions and queries from COVID patients and their contacts.
-● Organisation of patients notes on NHS databases to ensure they are aligned properly so the right people are contacted at the right time, to ensure correct self-isolation duration.
-● Triaging a large number of patient cases in what order they should be attended to using systems such as MAXconnect, synergy, ringcentral, NHS test & trace to increase
-efficiency.
-
 **SEN TEACHING ASSISTANT** (November 2021 - January 2022)
 - Supervising children with special needs in their sensory and tactile development
 - Working alongside school teachers to ensure special needs children are catered to
 accordingly.
 
+**SITEL LTD** (July 2021 - November 2021)  
+- Managing and attending to high volume of incoming and outgoing calls for COVID-19 patients and their contacts.
+- Responding to questions and queries from COVID patients and their contacts.
+- Organisation of patients notes on NHS databases to ensure they are aligned properly so the right people are contacted at the right time, to ensure correct self-isolation duration.
+- Triaging a large number of patient cases in what order they should be attended to using systems such as MAXconnect, synergy, ringcentral, NHS test & trace to increase
+efficiency.
+
+**TCS HOSPITALITY** (September 2018 - June 2020)
+- Worked at schools to help organize events and meals for children.
+- Provided bar and catering service at popular events.
+- Served at hospitality boxes in stadiums.
+
 ## Skills
+-------
+**Effective communicator and excellent team player**<br> 
+During The Birmingham Project 2019 held at the University of Birmingham, I was part of a 6 man team that developed a weekly e-newsletter as part of the build up to the 2022 commonwealth games being held in Birmingham. As someone who was responsible for a major section of the newsletter which was based on interviewing upcoming athletes leading up to the games, I ensured there was clear communication between myself and the rest of the team, this and the whole team being willing to put the team first before individual wants when it came to decision making was pivotal to finishing the newsletter on time. Our aim was to raise awareness in the Birmingham community for individuals of all ages to engage in exercise, increased physical activity and healthier lifestyles, which h we then achieved with the creation of the newsletter. 
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Leadership**<br>
+In the summer of 2019, I co-started a weekend community youth club that gives youths and children the opportunity to relax and engage in mental health conversations that are normally stigmatised in today’s society. This required me to lead the youths in how to have certain conversations which have been deemed uncomfortable and also in activites that helped build their soft skills which would benefit them outside the youth club as well. 
 
--STAR
--What was the situation/task? (ST)
+**Organisation & Adaptability**<br>
+Having been involved in so many teams from teaching staff and healthcare teams to annual festival hospitality staff, I have had to develop my organisational skills and also the ability to adapt to different situations, especially unprecedented ones. I have shown both these skills in multiple scenarios such as while being an emergency goodSAM volunteer, where I was part of a team that consistently raised, packaged and dispatched adequate food resources for COVID-19 patients. These skills were also used when running a weekend autism scheme for special needs kids while at University, as I organised and arranged play areas for them and also developed innovative ways to help engage autistic children in communicating their
+needs, enabling them to also work effectively among themselves.
 
--How was the skill used?
+**Resilience**<br>
+Being a very sporty individual, I have had to dig deep especially when it comes to sport competitions and I have been able to translate that to other areas of my life, especially when it comes to academic work and even coding. On many occasions I have been faced with challenges that seemed like there is no way to get around them both programming related and non-programming scenarios, and I can confidently say my perseverence and diligence have gotten me through them, and have enabled me to consistently finish things that I start, instead of putting them away at any prolonged difficulty. 
 
--What did you do? (action)
+**Time Management**<br>
+As a degree holder, during the length of my degree, I can confidently say that time management is one of my biggest strength, as I not only juggled alot of extra-curricurricular activities while acquiring a degree that comes with multiple project deadlines per term, but I also managed to run my own business while at University. As time management is a skill that can also been improved, I believe that itnis definitely a skill I execute at a very high standard, and can only get better at over time. 
 
--What was the result?
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -115,18 +110,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Bethany School** (September 2015 - June 2018)
 - Scholarship Holder
-- 7 GCSE’S; including Maths (A) and English(B)|
+- 7 GCSE’S; including Maths (A) and English(B)
 -  A-LEVEL: Chemistry-A, Biology-B, Physics-B
 
-## Any other qualifications
+**Other Qualifications**
 
 - National Citizen Service (NCS 2017)
 - Gold Duke of Edinburgh (2018)
-- Diabetes UK Community Champion(2019) The Birmingham Project (2019)
+- Diabetes UK Community Champion(2019) 
+- The Birmingham Project (2019)
 - BSMS Medicine Work Experience Virtual Internship. (2020)      
 - St John’s Ambulance First Aider (2020)
 
 ## Hobbies
-- **Football** - I normally play semi-pro football or futsal when I am not programming
+- **Football** - I normally play semi-pro football or futsal when I am not programming.
 - **Swimming** - I love to swim especially in the summer, and it is a way for me to take part in active recovery after football training. 
 - **Comedy** - I love laughing and I love making other people laugh too.  
